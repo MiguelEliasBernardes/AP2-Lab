@@ -64,3 +64,4 @@ C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\AP2-Lab-1.2\bi
 C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\AP2-Lab-1.2\bin\Debug\net8.0\AP2-LAB.pdb
 C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\AP2-Lab-1.2\obj\Debug\net8.0\AP2-LAB.genruntimeconfig.cache
 C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\AP2-Lab-1.2\obj\Debug\net8.0\ref\AP2-LAB.dll
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\AP2-Lab-1.2\obj\Debug\net8.0\AP2-LAB.sourcelink.json

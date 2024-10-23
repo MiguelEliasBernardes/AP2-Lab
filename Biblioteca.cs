@@ -31,9 +31,8 @@ public class Biblioteca
     public void PesquisarPorTitulo(string titulo){
         foreach (var item in livros)
         {
-            Console.WriteLine(item.Titulo);
-
             if(item.Titulo == titulo){
+            Console.WriteLine($"Código: {item.Codigo}");
             Console.WriteLine($"Título: {item.Titulo}");
             Console.WriteLine($"Autor: {item.Autor}");
             Console.WriteLine($"Genero: {item.Genero}");

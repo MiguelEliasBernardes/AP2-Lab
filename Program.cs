@@ -62,6 +62,7 @@ while(sis){
             Console.WriteLine("1 - Pesquisar por Titulo");
             Console.WriteLine("2 - Pesquisar por Autor");
             Console.WriteLine("3 - Pesquisar por Genero");
+            Console.WriteLine("4 - Pesquisar todos");
             Console.WriteLine("-- Por qual dado você deseja pesquisar o livro? ---");
             string dado = Console.ReadLine();
 
@@ -89,6 +90,12 @@ while(sis){
                     Console.WriteLine("Aperte ENTER para continuar");
                     Console.ReadLine();
                     break;
+
+                case "4":
+                    bibli.ListarLivros();
+                    Console.WriteLine("Aperte ENTER para continuar");
+                    Console.ReadLine();
+                    break;
             }
 
             break;
@@ -97,11 +104,11 @@ while(sis){
             Console.WriteLine("---- Atualizar dados do livro ----");
             Console.WriteLine("");
             
-            Console.WriteLine("Digite o titulo do livro: ");
-            string tituloNovo = Console.ReadLine();
-
             Console.WriteLine("Digite o codigo do livro:");
             string codigoNovo = Console.ReadLine();
+
+            Console.WriteLine("Digite o titulo do livro: ");
+            string tituloNovo = Console.ReadLine();
 
             Console.WriteLine("Digite o autor do livro:");
             string autorNovo = Console.ReadLine();
@@ -123,11 +130,11 @@ while(sis){
             Console.WriteLine("---- Cadastro de usuarios ----");
             Console.WriteLine("");
             
-            Console.WriteLine("Digite o nome do usuario: ");
-            string nome = Console.ReadLine();
-
             Console.WriteLine("Digite o numero de identificação do usuario:");
             string  numeroIdentificacao= Console.ReadLine();
+            
+            Console.WriteLine("Digite o nome do usuario: ");
+            string nome = Console.ReadLine();
 
             Console.WriteLine("Digite o endereço do usuário:");
             string endereco = Console.ReadLine();
