@@ -1,0 +1,66 @@
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2\AP2-Lab\bin\Debug\net8.0\AP2-LAB.exe
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2\AP2-Lab\bin\Debug\net8.0\AP2-LAB.deps.json
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2\AP2-Lab\bin\Debug\net8.0\AP2-LAB.runtimeconfig.json
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2\AP2-Lab\bin\Debug\net8.0\AP2-LAB.dll
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2\AP2-Lab\bin\Debug\net8.0\AP2-LAB.pdb
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2\AP2-Lab\obj\Debug\net8.0\AP2-LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2\AP2-Lab\obj\Debug\net8.0\AP2-LAB.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2\AP2-Lab\obj\Debug\net8.0\AP2-LAB.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2\AP2-Lab\obj\Debug\net8.0\AP2-LAB.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2\AP2-Lab\obj\Debug\net8.0\AP2-LAB.sourcelink.json
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2\AP2-Lab\obj\Debug\net8.0\AP2-LAB.dll
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2\AP2-Lab\obj\Debug\net8.0\refint\AP2-LAB.dll
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2\AP2-Lab\obj\Debug\net8.0\AP2-LAB.pdb
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2\AP2-Lab\obj\Debug\net8.0\AP2-LAB.genruntimeconfig.cache
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2\AP2-Lab\obj\Debug\net8.0\ref\AP2-LAB.dll
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab\bin\Debug\net8.0\AP2-LAB.exe
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab\bin\Debug\net8.0\AP2-LAB.deps.json
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab\bin\Debug\net8.0\AP2-LAB.runtimeconfig.json
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab\bin\Debug\net8.0\AP2-LAB.dll
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab\bin\Debug\net8.0\AP2-LAB.pdb
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab\obj\Debug\net8.0\AP2-LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab\obj\Debug\net8.0\AP2-LAB.AssemblyInfoInputs.cache
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab\obj\Debug\net8.0\AP2-LAB.AssemblyInfo.cs
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab\obj\Debug\net8.0\AP2-LAB.csproj.CoreCompileInputs.cache
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab\obj\Debug\net8.0\AP2-LAB.sourcelink.json
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab\obj\Debug\net8.0\AP2-LAB.dll
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab\obj\Debug\net8.0\refint\AP2-LAB.dll
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab\obj\Debug\net8.0\AP2-LAB.pdb
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab\obj\Debug\net8.0\AP2-LAB.genruntimeconfig.cache
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab\obj\Debug\net8.0\ref\AP2-LAB.dll
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2-Lab\bin\Debug\net8.0\AP2-LAB.exe
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2-Lab\bin\Debug\net8.0\AP2-LAB.deps.json
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2-Lab\bin\Debug\net8.0\AP2-LAB.runtimeconfig.json
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2-Lab\bin\Debug\net8.0\AP2-LAB.dll
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2-Lab\bin\Debug\net8.0\AP2-LAB.pdb
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2-Lab\obj\Debug\net8.0\AP2-LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2-Lab\obj\Debug\net8.0\AP2-LAB.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2-Lab\obj\Debug\net8.0\AP2-LAB.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2-Lab\obj\Debug\net8.0\AP2-LAB.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2-Lab\obj\Debug\net8.0\AP2-LAB.sourcelink.json
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2-Lab\obj\Debug\net8.0\AP2-LAB.dll
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2-Lab\obj\Debug\net8.0\refint\AP2-LAB.dll
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2-Lab\obj\Debug\net8.0\AP2-LAB.pdb
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2-Lab\obj\Debug\net8.0\AP2-LAB.genruntimeconfig.cache
+C:\Users\Miguel\Desktop\Faculdade\Laboratorio\AP2-Lab\obj\Debug\net8.0\ref\AP2-LAB.dll
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab-1.2\obj\Debug\net8.0\AP2-LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab-1.2\obj\Debug\net8.0\AP2-LAB.AssemblyInfoInputs.cache
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab-1.2\obj\Debug\net8.0\AP2-LAB.AssemblyInfo.cs
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab-1.2\obj\Debug\net8.0\AP2-LAB.csproj.CoreCompileInputs.cache
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab-1.2\obj\Debug\net8.0\AP2-LAB.dll
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab-1.2\obj\Debug\net8.0\refint\AP2-LAB.dll
+C:\Users\MIDIA\Desktop\t\TRABALHOS\AP2-Lab-1.2\obj\Debug\net8.0\AP2-LAB.pdb
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\AP2-Lab-1.2\obj\Debug\net8.0\AP2-LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\AP2-Lab-1.2\obj\Debug\net8.0\AP2-LAB.AssemblyInfoInputs.cache
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\AP2-Lab-1.2\obj\Debug\net8.0\AP2-LAB.AssemblyInfo.cs
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\AP2-Lab-1.2\obj\Debug\net8.0\AP2-LAB.csproj.CoreCompileInputs.cache
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\AP2-Lab-1.2\obj\Debug\net8.0\AP2-LAB.dll
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\AP2-Lab-1.2\obj\Debug\net8.0\refint\AP2-LAB.dll
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\AP2-Lab-1.2\obj\Debug\net8.0\AP2-LAB.pdb
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\AP2-Lab-1.2\bin\Debug\net8.0\AP2-LAB.exe
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\AP2-Lab-1.2\bin\Debug\net8.0\AP2-LAB.deps.json
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\AP2-Lab-1.2\bin\Debug\net8.0\AP2-LAB.runtimeconfig.json
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\AP2-Lab-1.2\bin\Debug\net8.0\AP2-LAB.dll
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\AP2-Lab-1.2\bin\Debug\net8.0\AP2-LAB.pdb
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\AP2-Lab-1.2\obj\Debug\net8.0\AP2-LAB.genruntimeconfig.cache
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\AP2-Lab-1.2\obj\Debug\net8.0\ref\AP2-LAB.dll
